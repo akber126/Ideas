@@ -1,0 +1,163 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav li b {
+    margin: -67px 68px;
+    padding: 37px;
+ font-size: xx-large;
+ color: rgba(13, 139, 13, 0.493);
+}
+
+main nav ul {
+    list-style: none;
+    display: flex;
+    margin: 20px 42px;
+    text-align: center;
+    padding: 20px 100px;
+    justify-content: space-between;
+}
+
+main img {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    margin: 0px 423px;
+}
+
+.Box {
+    height: 76px;
+    width: 60px;
+    background-color: black;
+    color: white;
+}
+
+.letter {
+    color: green;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+}
+
+.word {
+    text-align: center;
+}
+
+.word p {
+    color: green;
+}
+
+main ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    justify-content: space-between;
+}
+
+.question {
+    margin: 0px 436px;
+}
+
+.title {
+    line-break: normal;
+    margin: 0px 14px;
+}
+
+.retail {
+    margin: 13px 12px;
+}
+
+.retail b {
+    margin: 6px;
+}
+
+.container2 {
+    margin: 54px 804px;
+}
+
+.container2 b {
+    color: green;
+}
+
+.container2 p {
+    margin: 3px 110px;
+}
+
+.Reward b {
+    margin: 0px 900px;
+}
+
+.level {
+    margin: -54px 676px;
+    font: 1rem sans-serif;
+}
+
+.Reward {
+    margin: 87px 7px;
+    font-size: larger;
+}
+
+.Amount {
+    margin: -84px 676px;
+    font: 1em sans-serif;
+}
+.Box1{
+    margin: 113px 376px;
+    display: flex;
+    justify-content: space-between;
+}
+.Box1 p b big{
+    color: green;
+    font-size: x-large;
+    font: 2em sans-serif;
+}
+.Box1 .medal{
+    margin: -10px 1px;
+}
+.silver b{
+ color: green;
+    font-size: x-large;
+    font: 2em sans-serif;
+}
+.gold b{
+color: green;
+    font-size: x-large;
+    font: 2em sans-serif;
+}
+.platinum b{
+    color: green;
+    font-size: x-large;
+    font: 2em sans-serif;
+}
+.container4{
+    margin: 113px 776px;
+    color: white;
+    background-color: green;
+}
+.point{
+    margin: -100px 776px;
+
+}
+.container5 img{
+      margin: 118px auto;
+}
+
+footer{
+    background-color: lightgray;
+}
+
+footer nav ul{
+    display: inline-flex;
+    justify-content: space-between;
+    list-style: none;
+    margin: 26px 238px;
+    display: flex;
+    align-items: center;
+}
+
